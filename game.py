@@ -1,4 +1,4 @@
-#declararea variabilelor  globale
+#declararea variabilelor globale
 players = [] #array
 heal_power = 15
 class characters():
